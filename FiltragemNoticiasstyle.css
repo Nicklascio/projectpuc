@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+#investor-level {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#news-container {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.news-article {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.news-article h2 {
+    margin-top: 0;
+}
+
+.news-article p {
+    color: #333;
+}
+
+.news-article a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+.news-article a:hover {
+    text-decoration: underline;
+}
